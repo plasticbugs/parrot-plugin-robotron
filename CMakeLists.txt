@@ -53,6 +53,6 @@ cvcart_features(robotron_2084 PADS CARD)
 
 # The plugin (docs/plugin-rules.md): the ID is yours for good; the version
 # is the release's tag without its v.
-cvcart_plugin(robotron_2084 ID parrotcart.robotron NAME "Robotron: 2084" VERSION 0.1.0 BY "Parrot Cart"
+cvcart_plugin(robotron_2084 ID parrotcart.robotron NAME "Robotron: 2084" VERSION 0.1.1 BY "Parrot Cart"
               ICON src/icon.txt README CART-README.md FILE ROBOTRON.CVP
               HOME /ROBOTRON USES usb-host)
